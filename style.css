@@ -196,7 +196,7 @@ body.nature-on .hero-section {
 	overflow: hidden;
 	height: 100vh;
 	/* background-color: #102770; */
-	background-image: url('image/bg8.jpg');
+	background-image: url('image/bg8.jpeg');
 	background-size: cover;
 	background-position: center;
 	transform: translateX(-100%);
@@ -442,6 +442,11 @@ body.nature-on .nature-section {
 	line-height: 1.3;
 	font-weight: 700;
 	color: #ffeba7;
+}
+
+.col-lg-4>img{
+	border: 3px solid white;
+	border-radius: 10px;
 }
 /* #Link to page
 ================================================== */
